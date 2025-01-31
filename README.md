@@ -6,7 +6,7 @@ This is a simple FastAPI-based application designed to manage student informatio
 
 ## Assignment Details
 
-This project is part of an assignment given by **Naweed Sarwar**, who is the CEO of **Techloset** and an instructor at **SMIT (Saylani Mass IT Training Program)**. The goal of this assignment is to demonstrate the use of FastAPI for building a RESTful API to manage student data.
+This project is part of an assignment given by **Naveed Sarwar**, who is the CEO of **Techloset** and an instructor at **SMIT (Saylani Mass IT Training Program)**. The goal of this assignment is to demonstrate the use of FastAPI for building a RESTful API to manage student data.
 
 ---
 
