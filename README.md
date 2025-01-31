@@ -100,4 +100,4 @@ The API handles invalid student IDs (outside the range 1000-9999) and other exce
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request or contact on shadowhighwayyt@gmail.com.
